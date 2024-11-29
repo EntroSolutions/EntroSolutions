@@ -9,8 +9,6 @@
 
 - 🔭We currently working on [We develop custom web softwares](https://entro.solutions/)
 
-- 🌱 I’m currently learning **AI and LLM**
-
 - 👯 We are looking to collaborate on [Agencies](https://entro.solutions/)
 
 - 👨‍💻 All of our projects are available at [https://entro.solutions/our-latest-work/](https://entro.solutions/our-latest-work/)
