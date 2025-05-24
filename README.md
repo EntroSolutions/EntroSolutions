@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<h4><a href="https://entro.solutions/automating-hair-counting-with-yolov5-and-custom-models-an-entro-solutions-innovation/">Automating Hair Counting with YOLOv5 and Custom Models: An Entro Solutions Innovation</a></h4>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
