@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, We are Entro Solutions</h1>
 <h3 align="center">Entro Solutions is solution for your next software project.</h3>
 
+<p align="left"> <a href="https://aimvpagency.com/"><img src="https://aimvpagency.com/images/thumb.png" alt="entrosolutions" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=entrosolutions&label=Profile%20views&color=0e75b6&style=flat" alt="entrosolutions" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entrosolutions" alt="entrosolutions" /></a> </p>
