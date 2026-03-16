@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://aimvpagency.com/">AI MVP Agency</a> - have your AI MVP in a week </p>
 
+<p align="left"> <a href="https://aimvpagency.com/"> <img src="https://entro.solutions/wp-content/uploads/2026/03/Screenshot-2026-03-16-at-13.36.57.png" /> </a>
+
 <p align="left"> <a href="https://vibecoderplanner.com/">Vibe Code Planner - develop with plan in your browser and AI in the background</a> </p>
 
 <p align="left"> <a href="https://twitter.com/microdesignn" target="blank"><img src="https://img.shields.io/twitter/follow/microdesignn?logo=twitter&style=for-the-badge" alt="microdesignn" /></a> </p>
